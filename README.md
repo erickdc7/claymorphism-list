@@ -1,2 +1,4 @@
-# ot-claymorphism-list-u2
-Claymorphism List Hover Effects | Html CSS
+# Claymorphism List
+### This design belongs to [Online Tutorials](https://www.youtube.com/@OnlineTutorialsYT), you can see the video [here](https://youtu.be/Ao-bepemF8A).
+
+![preview img](/preview.png)
