@@ -118,3 +118,10 @@ body {
 .container .list:hover .creator p {
   color: #fff;
 }
+
+@media screen and (max-width: 300px) {
+  .container {
+    padding: 20px 15px 20px 15px;
+    margin-inline: 10px;
+  }
+}
